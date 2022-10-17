@@ -1,7 +1,7 @@
 {
   "name": "my-parsley",
   "title": "My Parsley Health",
-  "version": "2.151.1",
+  "version": "2.151.2",
   "private": true,
   "main": "build/index.js",
   "description": "My Parsley Health",
